@@ -101,7 +101,7 @@ i { font-size: 18px;}
 
 /*---header---*/
 
-header {position: fixed; left: 0px; top: 0px; height: 130px; width: 100%; text-align: center; z-index: 5060; transition:all .2s ease-out;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;}
+header {position: fixed; left: 0px; top: 0px; height: 75px; width: 100%; text-align: center; z-index: 5060; transition:all .2s ease-out;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;}
 header.fix {background:#fff; height: 75px;}
 nav {position: absolute; right: 50%; top: 0px; padding-top: 90px; transform: translateX(50%);-webkit-transform: translateX(50%);-moz-transform: translateX(50%);-ms-transform: translateX(50%); transition:all .2s ease-out;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;} 
 nav > ul > li {position: relative; float: left; margin: 0px 21px; font-size: 14px; font-weight: 400; line-height: 16px; text-transform: uppercase;}
