@@ -290,10 +290,16 @@ footer {position: relative; text-align: center; float: left; width: 100%;}
 .sidebar-tabs.tpl-tabs li {width: 50%;}
 .sidebar-tabs.tabs-style-1.nav-tabs>li>a { margin-right: 0px; font-size: 13px;}
 
+.b-det-wrapp-slebew {position: relative; width: 100%; padding-bottom: 35px;}
+.b-det-wrapp-slebew p {display: block; padding-bottom: 15px;}
+.b-det-wrapp-slebew ul {padding-bottom: 15px; float: none;}
+.b-det-wrapp-slebew img {width: 70%; height: auto; border-radius: 50%;}
+
 .b-det-wrapp {position: relative; width: 100%; padding-bottom: 35px;}
 .b-det-wrapp p {display: block; padding-bottom: 15px;}
 .b-det-wrapp ul {padding-bottom: 15px; float: none;}
 .b-det-wrapp img {width: 100%; height: auto;}
+
 .det-tags {position: relative; width: 100%;float: left;}
 .det-tags h4 {position: relative; float: left; padding-right: 20px; padding-top: 5px; font-weight: 700;}
 
