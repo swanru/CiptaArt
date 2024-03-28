@@ -691,6 +691,7 @@ label {
 .slider-video {
 
 	margin-top: 12px;
+	
 
 }
 
@@ -1927,20 +1928,22 @@ label {
 .about-area{}
 
 .about-img{
-	padding-top: 42px;
-
-	padding-left: 38px;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
-.about-img img{width:100%;}
+.about-img img	{
+	width:100%;
+}
 
 .about-wrapper{}
 
 .about-text {
 
-	padding-top: 42px;
-
-	padding-left: 38px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
 
 }
 
@@ -1965,6 +1968,7 @@ label {
 	text-transform: uppercase;
 
 }
+
 
 .about-link{}
 
